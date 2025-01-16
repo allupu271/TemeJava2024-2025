@@ -1,0 +1,21 @@
+[
+  [
+    "Problema2.Chitara",
+    {
+      "producator": "Fender",
+      "pret": 1200.0,
+      "tipChitara": "ACUSTICA",
+      "nrCorzi": 6
+    }
+  ],
+  [
+    "Problema2.SetTobe",
+    {
+      "producator": "Pearl",
+      "pret": 2500.0,
+      "tipTobe": "ELECTRONICE",
+      "nrTobe": 7,
+      "nrCinele": 4
+    }
+  ]
+]
