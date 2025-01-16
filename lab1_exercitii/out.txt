@@ -1,0 +1,4 @@
+Suma este: 27
+media aritmetica este: 4.5
+valoarea minima este: 2
+valoarea maxima este: 8
